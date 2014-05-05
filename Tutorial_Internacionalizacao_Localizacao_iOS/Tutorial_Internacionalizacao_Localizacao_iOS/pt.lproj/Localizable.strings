@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Tutorial_Internacionalizacao_Localizacao_iOS
+
+  Created by Kaê Coutinho - BEPiD on 5/4/14.
+  Copyright (c) 2014 Kaê Angeli Coutinho. All rights reserved.
+*/
+
+"ViewController_helloLabel" = "Olá";
+"ViewController_nameLabel" = "Meu nome é";
